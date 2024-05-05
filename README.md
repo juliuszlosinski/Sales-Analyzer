@@ -1,5 +1,5 @@
 ### Analyzing sales goals:
-- visualization by using various dashboards in python (**dash**, **plotly express**, **matplotlib/ pyplot**),
+- visualization by using various dashboards in python (**dash**, **plotly express**, **matplotlib/ pyplot**) [./Predictions]
 - making prediction (**classification**) by using linear models and others (Suppor Vector for Classification, Decision Tree Classification and Random Forest Classifaction).
   
 **Data**:
