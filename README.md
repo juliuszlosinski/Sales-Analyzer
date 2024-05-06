@@ -1,6 +1,10 @@
 ### Analyzing sales goals:
 - visualization by using various dashboards in python (**dash**, **plotly express**, **matplotlib/ pyplot**) [Code](./Descriptive),
 - making prediction (**classification**) by using linear models and others (Suppor Vector for Classification, Decision Tree Classification and Random Forest Classifaction) [Code](./Predictive).
+
+[Author of visualization ~ Veronika Hordieieva](https://github.com/VeRonikARoNik)
+
+[Author of predictions ~ Juliusz Łosiński](https://github.com/juliuszlosinski)
   
 **Data**:
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/
