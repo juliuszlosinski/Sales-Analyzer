@@ -16,6 +16,8 @@ https://panfrog.atlassian.net/jira/software/projects/KAN/boards/1
 **Gender prediction (classification):**
 ![image](https://github.com/juliuszlosinski/Sales-Analyzer/assets/72278818/a13e7793-d781-4a90-b970-d7efc705492f)
 
+![image](https://github.com/juliuszlosinski/Sales-Analyzer/assets/72278818/d1cc86c3-d02d-44fa-af68-c106a519bfd9)
+
 # Description/ visualization:
 Apply to Supermarket sales data: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales to calculate the following values: 
 1. Arithmetic mean (average)
